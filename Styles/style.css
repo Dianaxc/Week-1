@@ -1,0 +1,64 @@
+body {
+	background-color: rgb(179, 179, 179);
+}
+nav {
+	color: rgb(128, 0, 64);
+	font-size: 18px;
+	font-family: avenir book;
+}
+h1 {
+	color:rgb(217, 255, 102);
+	font-size: 35px;
+	font-family: britannic bold;
+}
+h2 {
+	font-family: avenir book;
+	color: rgb(77, 77, 77);
+	font-size: 20px 
+}
+p{
+	color: rgb(255, 255, 255);
+	font-size: 20px;
+	font-family: avenir book;
+}
+h3 {
+	color: rgb(128, 0, 64);
+	text-decoration: underline;
+	font-family: avenir book;
+	font-size: 25px
+}
+h4 {
+	font-family: avenir book;
+	color: rgb(255, 255, 255);
+	font-size: 20px
+}
+p{
+	color: rgb(255, 255, 255);
+	font-size: 20px;
+	font-family: avenir book;
+}
+h5 {
+	font-family: avenir book;
+	color: rgb(255, 255, 255);
+	font-size: 20px
+}
+p{
+	color: rgb(255, 255, 255);
+	font-size: 20px;
+	font-family: avenir book;
+}
+h6 {
+	font-family: avenir book;
+	color: rgb(255, 255, 255);
+	font-size: 20px
+}
+p{
+	color: rgb(255, 255, 255);
+	font-size: 20px;
+	font-family: avenir book;
+}
+footer {
+	color: rgb(128, 0, 64);
+	font-size: 18px;
+	font-family: avenir book;
+}
